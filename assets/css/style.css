@@ -728,7 +728,7 @@ ul {
 
     .hero-badge {
         position: absolute;
-        top: 15rem;
+        top: 210px;
         left: 50%;
         transform: translateX(-50%);
         margin: 0;
